@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi and welcome 👋, am Dennis Mbugua.
 
 <!--
 **MbuguaDennis/mbuguadennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
